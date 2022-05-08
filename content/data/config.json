@@ -1,10 +1,10 @@
 {
-    "title": "Stackbit Exto Theme",
+    "title": "AGR Digital Bussines",
     "path_prefix": "/",
-    "color_scheme": "light",
+    "color_scheme": "Dark",
     "accent_color": "pink",
     "header": {
-        "title": "Exto",
+        "title": "AGRDB",
         "has_nav": true,
         "nav_links": [
             {
